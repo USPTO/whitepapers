@@ -4,14 +4,18 @@ layout: default
 
 # Latest updates
 
-## Title
-#### Submitted: XX/XX/XXXX
+## Angular with Apache
+#### Submitted: 08/15/2017
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum.
-
-[View whitepaper](#)
+To simulate some production environment REST services,
+I needed to serve an Angular application from Apache on
+my local machine. I’ve been enjoying using Angular CLI’s
+“ng serve” functionality, and wanted to preserve its convenience.
+The “ng serve” command builds the application, starts a
+web server and runs the application, and automatically
+rebuilds the application if you change any of the application’s
+source code files. Apache would provide the Web services,
+and I needed to automate the watch and build processes. 
+[View whitepaper](Angular%20with%20Apache.md)
 
 ---
-
-
-
