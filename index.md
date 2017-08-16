@@ -5,7 +5,7 @@ layout: default
 # Latest updates
 
 ## Developing Angular 4 with Apache
-#### Submitted: 08/15/2017
+#### 08/15/2017
 
 To simulate some production environment REST services,
 I needed to serve an Angular application from Apache on
@@ -17,6 +17,6 @@ rebuilds the application if you change any of the application’s
 source code files. Apache would provide the Web services,
 and I needed to automate the watch and build processes. 
 
-[View whitepaper](Angular%20with%20Apache.md)
+[View whitepaper](/docs/developing-angular4-with-apache)
 
 ---
