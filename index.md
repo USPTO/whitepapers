@@ -17,6 +17,6 @@ rebuilds the application if you change any of the application’s
 source code files. Apache would provide the Web services,
 and I needed to automate the watch and build processes. 
 
-[View whitepaper](/docs/developing-angular4-with-apache)
+[View whitepaper](docs/developing-angular4-with-apache)
 
 ---
