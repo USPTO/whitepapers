@@ -4,7 +4,7 @@ layout: default
 
 # Latest updates
 
-## Angular with Apache
+## Developing Angular 4 with Apache
 #### Submitted: 08/15/2017
 
 To simulate some production environment REST services,
