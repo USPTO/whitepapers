@@ -1,7 +1,7 @@
 # Developing Angular 4 with Apache
 **By: Lincoln Gup, U.S. Patent and Trademark Office**
 
-Read the article in PDF: [Angular with Apache](Angular%20with%20Apache.pdf)
+Download the article in PDF: [Developing Angular 4 with Apache](/whitepapers/downloads/developing-angular4-with-apache.pdf)
 
 ## The Problem
 
