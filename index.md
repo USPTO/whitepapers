@@ -16,6 +16,7 @@ web server and runs the application, and automatically
 rebuilds the application if you change any of the application’s
 source code files. Apache would provide the Web services,
 and I needed to automate the watch and build processes. 
+
 [View whitepaper](Angular%20with%20Apache.md)
 
 ---
